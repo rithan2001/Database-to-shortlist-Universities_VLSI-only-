@@ -17,7 +17,7 @@ https://docs.google.com/spreadsheets/d/1ymeeIx45pdBfr4CKgHPWDiYS039Vcn9tY65o4ho1
 	Uminn - PD and memory design (Prof.Kim)				
 	UW madison - nanotech and pure semiconductor physics , control systems				
 	USC - good for comp arch and digital				
-	Purdue - soc design courses are good, comp arch , ML in vlsi(Prof. Anand & vijay raghu, vijay  ) 				
+	Purdue - soc design courses are good, comp arch , ML in vlsi(Prof. Anand & vijay raghu,Prof. vijay kumar_comp Arch guru ) 			
 	UCSD - CE track ( good digtal vlsi and ML in HLS )				
 	NCSU - best for verification course ( complete UVM flow can be learnt )				
 	TAMU - really good analog courses				
@@ -62,14 +62,21 @@ https://docs.google.com/spreadsheets/d/1ymeeIx45pdBfr4CKgHPWDiYS039Vcn9tY65o4ho1
 	Purdue - 315+ gre and decent research admits
 	Uminn is safest if u have decent gpa of 8.5+ and nice research bcakground.
 	
-Also, LOR and SOP places a huge role in master application. Curtail ur statement of purpose acc to neccesities of particular university. For ex: UCSD gives priority also to your research experience and extra curricular activities in UG's. you can brief abt that in your sop. 
+Also, LOR and SOP places a huge role in master application. Curtail ur statement of purpose acc to neccesities of particular university. 
 
-Purdue checks if u are aligned into track you wanna pursue.How well you can sync with interested prof's work. Talking with prospective students at the university can get you these kind of insights.
+For ex: 
+> UCSD gives priority also to your research experience and extra curricular activities in UG's. you can brief abt that in your sop. 
+
+> Purdue checks if u are aligned into track you wanna pursue.How well you can sync with interested prof's work. Talking with prospective students at the university can get you these kind of insights.
+
+> Gatech,USC is GPA centric , so it is important that we touch upon academic records in SOP.
 	
-## generic profile of admitted students		
+## Generic profile of admitted students	FALL'22	
 	CHeck once yocket of past yr admits		
 	GPA : 9+	min of 2 RA + extra curricular	
 	GRE : 310+	TOEFL: 95+   IELTS : 7.5+
+	
+Personally, GPA do plays major role in your MS admission, but not the only factor.You can still compensate with graduate examination record score (320+). 
 	
 # Following are my applied colleges ::(
 								
@@ -80,8 +87,7 @@ Purdue checks if u are aligned into track you wanna pursue.How well you can sync
 
 UCB, UCLA , Umich were under my rader of intial shortlist but it is costly for my current financial scenrio. So I didnt apply.	
 	
-# My admits 
-
+# My admits Fall '22
 	1.USC ( admit on jan 14) 		
 	2.Asu ( u will get admit in a month, jan28) 		
 	3.Ucsd ( Feb 6) 		
