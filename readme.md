@@ -28,7 +28,7 @@ https://docs.google.com/spreadsheets/d/1ymeeIx45pdBfr4CKgHPWDiYS039Vcn9tY65o4ho1
 	UC boulder - best emb system course 				
 	Caltech- too much research based (genrally only PHD) , but worth 100% 				
 	Standford - i didn't like courses in VLSI 
-	For Comp Arch, UTA, UWM, NCSU are the best after top universities like UCLA, UCB, Standford
+	For Comp Arch UTA, UWM, Gatech, Purdue, NCSU are the best after top universities like UCLA, UCB, Standford
 	UW Madison - thesis is best option 				
 	Gatech, Uminn - non thesis (course work only )				
 					
