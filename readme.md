@@ -91,6 +91,7 @@ UCB, UCLA , Umich were under my rader of intial shortlist but it is costly for m
 	7.georgia tech (mar 23)		
 	8.purdue (apr3)	
 
-# My rejects
-        1.UT Austin
+# I am still waiting for my UT decision.
+
+
 
