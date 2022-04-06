@@ -81,10 +81,10 @@ Personally, GPA do plays major role in your MS admission, but not the only facto
 	
 # Following are my applied colleges ::(
 								
-	#ambi	     #mod	  #safe	
-	UT	    purdue	    usc	
-	gatech	    Uminn	    ncsu	
-	ucsd	    UWisconsin       asu	
+	#Ambi	     #Mod	  #Safe	
+	UT	    Purdue	    Usc	
+	Gatech	    Uminn	    Ncsu	
+	Ucsd	    UWisconsin      Asu	
 
 UCB, UCLA , Umich were under my rader of intial shortlist but it is costly for my current financial scenrio. So I didnt apply.	
 	
