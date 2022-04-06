@@ -54,7 +54,7 @@ https://docs.google.com/spreadsheets/d/1ymeeIx45pdBfr4CKgHPWDiYS039Vcn9tY65o4ho1
 	Apply to UWisconsin only for nanotech and control system.Personally i didnt like computer system courses over there.				
 	Apply to Uminn only for PD and memory design 	
 	
-## generic profie for admits		
+## generic profile of admitted students		
 	CHeck once yocket of past yr admits		
 	GPA : 9+	min of 2 RA + extra curricular	
 	GRE : 310+	TOEFL: 95+   IELTS : 7.5+
