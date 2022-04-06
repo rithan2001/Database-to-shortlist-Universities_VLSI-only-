@@ -35,12 +35,12 @@ https://docs.google.com/spreadsheets/d/1ymeeIx45pdBfr4CKgHPWDiYS039Vcn9tY65o4ho1
 ## TOP Universities in VLSI for Master's program
 	
 	UC Berkeley	
-	UT Austin	
+	UT Austin (Comp arch)	
 	UCLA	
 	Georgia Tech	
 	University of Michigan	
 	UIUC	
-	UC San Diego	
+	UC San Diego (Analog & communication circuits courses)	
 	Texas A&M (good physical design courses)	
 	University of Minnesota (excellent physical design courses)	
 	NC state (good verification and computer architecture courses)	
