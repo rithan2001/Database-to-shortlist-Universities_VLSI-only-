@@ -14,7 +14,7 @@ https://docs.google.com/spreadsheets/d/1ymeeIx45pdBfr4CKgHPWDiYS039Vcn9tY65o4ho1
 	Gatech - digital design and comp arch (one of the best coursework so far)				
 	ASU -  analog courses are good, but not well ranked			
 	Uminn - PD and memory design (Prof.Kim)				
-	UWmadison - nanotech and pure semiconductor physics , control systems				
+	UW madison - nanotech and pure semiconductor physics , control systems				
 	USC - good for comp arch and digital				
 	Purdue - soc design courses are good, comp arch , ML in vlsi(Prof. Anand & vijay raghu, vijay  ) 				
 	UCSD - CE track ( good digtal vlsi and ML in HLS )				
@@ -27,7 +27,7 @@ https://docs.google.com/spreadsheets/d/1ymeeIx45pdBfr4CKgHPWDiYS039Vcn9tY65o4ho1
 	UC boulder - best emb system course 				
 	Caltech- too much research based (genrally only PHD) , but worth 100% 				
 	Standford - i am not able to find  good courses in VLSI 				
-	UWMadison - thesis is best option 				
+	UW Madison - thesis is best option 				
 	Gatech, Uminn - non thesis (course work only )				
 					
           		
@@ -62,7 +62,7 @@ https://docs.google.com/spreadsheets/d/1ymeeIx45pdBfr4CKgHPWDiYS039Vcn9tY65o4ho1
 				
 				
 	#ambi	     #mod	  #safe	
-	uta	    purdue	    usc	
+	UT	    purdue	    usc	
 	gatech	    Uminn	    ncsu	
 	ucsd	    Wisconsin       asu	
 	
@@ -76,7 +76,10 @@ https://docs.google.com/spreadsheets/d/1ymeeIx45pdBfr4CKgHPWDiYS039Vcn9tY65o4ho1
 	5.uminn (mar1)		
 	6.wisconsin (mar 8)		
 	7.georgia tech (mar 23)		
-	8.purdue (apr3)		
+	8.purdue (apr3)	
+
+# My rejects
+        1. UT Austin
 			
 			
 			
