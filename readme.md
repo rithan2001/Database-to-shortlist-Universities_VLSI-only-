@@ -60,7 +60,7 @@ https://docs.google.com/spreadsheets/d/1ymeeIx45pdBfr4CKgHPWDiYS039Vcn9tY65o4ho1
 	Gatech - good research experience
 	UCSD - stellar Research and good Gre can get u there
 	Purdue - 315+ gre and decent research admits
-	Uminn is safest if u have decent gpa of 8.5+ and nice research bcakground.
+	Uminn is safest if u have decent gpa of 8.5+ and nice research/industry background.
 	
 Also, LOR and SOP places a huge role in master application. Curtail ur statement of purpose acc to neccesities of particular university. 
 
@@ -70,6 +70,7 @@ For ex:
 > Purdue checks if u are aligned into track you wanna pursue.How well you can sync with interested prof's work. Talking with prospective students at the university can get you these kind of insights.
 
 > Gatech,USC is GPA centric , so it is important that we touch upon academic records in SOP.
+> Usually, UCSD and Gatech give priority to work experience.
 	
 ## Generic profile of admitted students	FALL'22	
 	CHeck once yocket of past yr admits		
@@ -97,7 +98,7 @@ UCB, UCLA , Umich were under my rader of intial shortlist but it is costly for m
 	7.georgia tech (mar 23)		
 	8.purdue (apr3)	
 
-# I am still waiting for my UT decision.
+### I am still waiting for my UT decision.
 
 
 
