@@ -1,5 +1,5 @@
 ## Hello peeps, This is Rithan from NIT trichy (ECE) >> Glimpse of my interaction with industry experts and senior talks.
-Hope it kick starts your search & reasearch towards MS in VLSI.
+Hope it kick starts your search for Master program in VLSI (US).
 All the following information provided is just my opinion & insights from industry experts.
 
 https://docs.google.com/spreadsheets/d/1ymeeIx45pdBfr4CKgHPWDiYS039Vcn9tY65o4ho1qjQ/edit?usp=sharing
@@ -60,13 +60,13 @@ https://docs.google.com/spreadsheets/d/1ymeeIx45pdBfr4CKgHPWDiYS039Vcn9tY65o4ho1
 	GRE : 310+	TOEFL: 95+   IELTS : 7.5+
 	
 # Following are my applied colleges ::(
-				
-UCB, UCLA , Umich were under my rader of intial shortlist but it is costly for my current financial scenrio. So I didnt apply.					
+								
 	#ambi	     #mod	  #safe	
 	UT	    purdue	    usc	
 	gatech	    Uminn	    ncsu	
 	ucsd	    Wisconsin       asu	
-	
+
+UCB, UCLA , Umich were under my rader of intial shortlist but it is costly for my current financial scenrio. So I didnt apply.	
 	
 # My admits 
 
