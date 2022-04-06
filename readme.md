@@ -69,9 +69,9 @@ https://docs.google.com/spreadsheets/d/1ymeeIx45pdBfr4CKgHPWDiYS039Vcn9tY65o4ho1
 	
 # My admits 
 
-	1. USC ( admit on jan 14) 		
-	2. asu ( u will get admit in a month, jan28) 		
-	3. ucsd ( Feb 6) 		
+	1.USC ( admit on jan 14) 		
+	2.Asu ( u will get admit in a month, jan28) 		
+	3.Ucsd ( Feb 6) 		
 	4.ncsu (feb 28)		
 	5.uminn (mar1)		
 	6.wisconsin (mar 8)		
