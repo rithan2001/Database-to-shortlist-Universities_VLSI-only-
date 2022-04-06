@@ -84,7 +84,7 @@ Personally, GPA do plays major role in your MS admission, but not the only facto
 	#ambi	     #mod	  #safe	
 	UT	    purdue	    usc	
 	gatech	    Uminn	    ncsu	
-	ucsd	    Wisconsin       asu	
+	ucsd	    UWisconsin       asu	
 
 UCB, UCLA , Umich were under my rader of intial shortlist but it is costly for my current financial scenrio. So I didnt apply.	
 	
@@ -92,11 +92,11 @@ UCB, UCLA , Umich were under my rader of intial shortlist but it is costly for m
 	1.USC ( admit on jan 14) 		
 	2.Asu ( u will get admit in a month, jan28) 		
 	3.Ucsd ( Feb 6) 		
-	4.ncsu (feb 28)		
-	5.uminn (mar1)		
-	6.wisconsin (mar 8)		
-	7.georgia tech (mar 23)		
-	8.purdue (apr3)	
+	4.Ncsu (feb 28)		
+	5.Uminn (mar1)		
+	6.Uwisconsin (mar 8)		
+	7.Georgia tech (mar 23)		
+	8.Purdue (apr3)	
 
 ### I am still waiting for my UT decision.
 
