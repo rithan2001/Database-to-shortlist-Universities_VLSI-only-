@@ -52,7 +52,19 @@ https://docs.google.com/spreadsheets/d/1ymeeIx45pdBfr4CKgHPWDiYS039Vcn9tY65o4ho1
 ### Suggestions				
 	Apply to UC boulder,Upenn only if u have interest in embedded system 						
 	Apply to UWisconsin only for nanotech and control system.Personally i didnt like computer system courses over there.				
-	Apply to Uminn only for PD and memory design 	
+	Apply to Uminn only for PD and memory design
+	USC - general admits are 9+ gpa and tier 1 college students
+	ASU - always the safest college for decent profile considering huge class size
+	NCSU - generally sees Quant score (165+) and awa score (3+)
+	UT - need Ultra mass gre score and good exposure in Industry
+	Gatech - good research experience
+	UCSD - stellar Research and good Gre can get u there
+	Purdue - 315+ gre and decent research admits
+	Uminn is safest if u have decent gpa of 8.5+ and nice research bcakground.
+	
+Also, LOR and SOP places a huge role in master application. Curtail ur statement of purpose acc to neccesities of particular university. For ex: UCSD gives priority also to your research experience and extra curricular activities in UG's. you can brief abt that in your sop. 
+
+Purdue checks if u are aligned into track you wanna pursue.How well you can sync with interested prof's work. Talking with prospective students at the university can get you these kind of insights.
 	
 ## generic profile of admitted students		
 	CHeck once yocket of past yr admits		
