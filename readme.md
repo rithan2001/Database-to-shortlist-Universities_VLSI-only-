@@ -7,7 +7,7 @@ https://docs.google.com/spreadsheets/d/1ymeeIx45pdBfr4CKgHPWDiYS039Vcn9tY65o4ho1
 					
 	Princeton - only PHD				
 	UCLA - good digital course, but hectic quarter system left no breathing space for students
-	UCLA - have good set of analog courses too, but lot are more theorical courses like UCSD
+	UCLA - have good set of analog courses too, but lot are more theoretical courses like UCSD
 	Umich has good PD course  (backend)				
 	UCSD - analog ECS track ( good theory centric course for anlaog and communication circuits, no practical )				
 	UTA was good for analog but since one top prof left, analog domain in uta is weak as on fall 22				
