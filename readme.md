@@ -79,7 +79,7 @@ For ex:
 	
 Personally, GPA do plays major role in your MS admission, but not the only factor.You can still compensate with graduate examination record score (320+). 
 	
-# Following are my applied colleges ::(
+## Following are my applied colleges ::(
 								
 	#Ambi	     #Mod	  #Safe	
 	UT	    Purdue	    Usc	
@@ -88,7 +88,7 @@ Personally, GPA do plays major role in your MS admission, but not the only facto
 
 UCB, UCLA , Umich were under my rader of intial shortlist but it is costly for my current financial scenrio. So I didnt apply.	
 	
-# My admits Fall '22
+## My admits Fall '22
 	1.USC ( admit on jan 14) 		
 	2.Asu ( u will get admit in a month, jan28) 		
 	3.Ucsd ( Feb 6) 		
