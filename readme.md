@@ -32,7 +32,7 @@ https://docs.google.com/spreadsheets/d/1ymeeIx45pdBfr4CKgHPWDiYS039Vcn9tY65o4ho1
 	Gatech, Uminn - non thesis (course work only )				
 					
           		
-# TOP UNIVERSITY IN VLSI
+## TOP Universities in VLSI for Master's program
 	
 	UC Berkeley	
 	UT Austin	
