@@ -101,8 +101,19 @@ UCB, UCLA , Umich were under my rader of intial shortlist but it is costly for m
 
 ### I am still waiting for my UT decision.
 
-## Drafting LOR , SOP , Resume , Research Internship 
+### Drafting LOR , SOP , Resume , Research Internship 
 https://drive.google.com/drive/folders/1Tg9q6EfOZ2mkBwEX3-AhtuWtppDHb6s6
+
+### Toefl Writing Template
+https://docs.google.com/document/d/1SXfozqTTBwod7EFQDDbREn1tTV4tetHNergMNcYC9KA/edit?usp=sharing
+
+### Toefl speaking template
+https://docs.google.com/document/d/1FeXmTMG8f4Rc_wcKROD-HnQfmbL9K476tA_4IsqEXJc/edit?usp=sharing
+
+### cold mail id of IITM VLSI Professor
+https://docs.google.com/document/d/11ihjZE7zOtkdALTuGcrmEwrdHQYcN0nFe_xV43rxXSo/edit?usp=sharing
+
+
 
 
 
