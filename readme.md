@@ -101,5 +101,8 @@ UCB, UCLA , Umich were under my rader of intial shortlist but it is costly for m
 
 ### I am still waiting for my UT decision.
 
+## Drafting LOR , SOP , Resume , Research Internship 
+https://drive.google.com/drive/folders/1Tg9q6EfOZ2mkBwEX3-AhtuWtppDHb6s6
+
 
 
