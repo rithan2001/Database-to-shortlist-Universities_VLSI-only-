@@ -99,7 +99,8 @@ UCB, UCLA , Umich were under my rader of intial shortlist but it is costly for m
 	7.Georgia tech (mar 23)		
 	8.Purdue (apr3)	
 
-### I am still waiting for my UT decision.
+### My reject Fall 22
+        1.UT austin (apr 25)
 
 ### Drafting LOR , SOP , Resume , Research Internship 
 https://drive.google.com/drive/folders/1Tg9q6EfOZ2mkBwEX3-AhtuWtppDHb6s6
